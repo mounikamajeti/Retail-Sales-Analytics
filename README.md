@@ -80,54 +80,51 @@ Analyzed:
 Created charts to understand business trends and patterns.
 
 ---
-
 # 📈 Visualizations
 
 ## Sales by Category
 
-![Sales Category](charts/sales_by_category.png)
+<img src="charts/sales_by_category.png" width="700">
 
 
 ## Profit by Category
 
-![Profit Category](charts/profit_by_category.png)
+<img src="charts/profit_by_category.png" width="700">
 
 
 ## Sales by Region
 
-![Sales Region](charts/sales_by_region.png)
+<img src="charts/sales_by_region.png" width="700">
 
 
 ## Top 10 States by Sales
 
-![Top States](charts/top_states.png)
+<img src="charts/top_states.png" width="700">
 
 
 ## Top 10 Cities by Sales
 
-![Top Cities](charts/top_cities.png)
+<img src="charts/top_cities.png" width="700">
 
 
 ## Sales by Customer Segment
 
-![Customer Segment](charts/customer_segment.png)
+<img src="charts/customer_segment.png" width="700">
 
 
 ## Sales by Ship Mode
 
-![Ship Mode](charts/ship_mode.png)
+<img src="charts/ship_mode.png" width="700">
 
 
 ## Discount Analysis
 
-![Discount Analysis](charts/discount_analysis.png)
+<img src="charts/discount_analysis.png" width="700">
 
 
 ## Sales vs Profit
 
-![Sales vs Profit](charts/sales_vs_profit.png)
-
----
+<img src="charts/sales_vs_profit.png" width="700">
 
 # 📌 Key Insights
 
