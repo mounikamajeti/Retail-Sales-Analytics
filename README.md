@@ -126,13 +126,9 @@ Created charts to understand business trends and patterns.
 
 <img src="./charts/sales_vs_profit.png" width="600">
 
----
-
 # 📸 Project Preview
 
 ![Dashboard](screenshots/dashboard.png)
-
----
 
 # 📌 Key Insights
 
