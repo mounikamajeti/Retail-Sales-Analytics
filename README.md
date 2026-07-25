@@ -1,10 +1,15 @@
 # 📊 Retail Sales Analytics
 
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-green)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
+
 ## Overview
 
-This project performs Exploratory Data Analysis (EDA) on retail sales data to identify sales trends, profitability patterns, customer behavior, regional performance, and the impact of discounts on business outcomes.
+This project analyzes retail sales data to uncover business insights related to sales performance, profitability, customer segments, regional trends, and discount strategies.
 
-The analysis uses Python-based data analytics techniques to transform raw sales data into meaningful visual insights that can support data-driven decision-making.
+Using Python-based data analytics techniques, the project cleans raw transactional data, performs Exploratory Data Analysis (EDA), and creates visualizations to support data-driven decision-making.
 
 ---
 
@@ -34,6 +39,8 @@ The objective of this project is to analyze retail sales data and discover:
 ## 📂 Dataset
 
 **Dataset Name:** Sample Superstore Dataset
+
+**Dataset Source:** Kaggle - Sample Superstore Dataset
 
 The dataset contains retail transaction details including:
 
@@ -132,13 +139,13 @@ Created charts to understand business trends and patterns.
 
 # 📌 Key Insights
 
-- Identified the highest revenue-generating product categories.
-- Analyzed profit contribution across different categories.
-- Compared sales performance across different regions.
-- Identified top-performing states and cities.
-- Studied customer segments contributing maximum sales.
-- Evaluated the relationship between discounts and profitability.
-- Observed patterns between sales volume and profit generation.
+- Identified top-performing product categories based on sales revenue.
+- Analyzed profitability differences among product categories.
+- Compared regional sales performance to understand business contribution.
+- Identified customer segments generating maximum sales.
+- Analyzed top-performing states and cities based on sales.
+- Studied the impact of discounts on profitability.
+- Observed the relationship between sales revenue and profit generation.
 
 ---
 
@@ -208,6 +215,22 @@ jupyter
 
 ---
 
+# 📌 Project Status
+
+Completed:
+
+- Data cleaning and preprocessing
+- Exploratory Data Analysis
+- Data visualization
+- Business insights generation
+- GitHub documentation
+
+Future enhancements:
+
+- Interactive dashboard development
+- Machine Learning-based sales forecasting
+- Web application deployment
+
 # 🚀 Future Improvements
 
 - Build an interactive dashboard using Power BI or Tableau.
@@ -226,3 +249,9 @@ Computer Science Engineering Student
 ---
 
 ⭐ If you found this project useful, consider giving it a star on GitHub.
+
+---
+
+# 📄 License
+
+This project is created for educational and portfolio purposes.
