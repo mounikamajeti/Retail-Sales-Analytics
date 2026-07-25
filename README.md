@@ -78,6 +78,8 @@ Analyzed:
 ## 4. Data Visualization
 
 Created charts to understand business trends and patterns.
+
+
 # 📈 Visualizations
 
 ## Sales by Category
