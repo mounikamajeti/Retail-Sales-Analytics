@@ -135,18 +135,16 @@ Created charts to understand business trends and patterns.
 
 # 📸 Project Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard Preview](screenshots/dashboard.png)
 
 # 📌 Key Insights
 
-- Identified top-performing product categories based on sales revenue.
-- Analyzed profitability differences among product categories.
-- Compared regional sales performance to understand business contribution.
-- Identified customer segments generating maximum sales.
-- Analyzed top-performing states and cities based on sales.
-- Studied the impact of discounts on profitability.
-- Observed the relationship between sales revenue and profit generation.
-
+- Identified the highest revenue-generating product categories from retail transactions.
+- Analyzed category-wise profit contribution and profitability patterns.
+- Compared regional sales performance and identified top-performing regions.
+- Identified customer segments contributing maximum sales revenue.
+- Analyzed the effect of discounts on profit generation.
+- Observed the relationship between sales volume and profit performance.
 ---
 
 # 📁 Project Structure
