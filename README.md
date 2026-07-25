@@ -169,6 +169,9 @@ Retail-Sales-Analytics/
 │   ├── discount_analysis.png
 │   └── sales_vs_profit.png
 │
+├── screenshots/
+│   └── dashboard.png
+│
 ├── requirements.txt
 │
 └── README.md
