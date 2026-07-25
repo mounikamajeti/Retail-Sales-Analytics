@@ -79,44 +79,52 @@ Analyzed:
 
 Created charts to understand business trends and patterns.
 
----
 # 📈 Visualizations
 
 ## Sales by Category
 
-![Sales by Category](./charts/sales_by_category.png)
+![Sales by Category](charts/sales_by_category.png)
+
 
 ## Profit by Category
 
-![Profit by Category](./charts/profit_by_category.png)
+![Profit by Category](charts/profit_by_category.png)
+
 
 ## Sales by Region
 
-![Sales by Region](./charts/sales_by_region.png)
+![Sales by Region](charts/region_sales.png)
+
 
 ## Top 10 States by Sales
 
-![Top States](./charts/top_states.png)
+![Top States](charts/top_states.png)
+
 
 ## Top 10 Cities by Sales
 
-![Top Cities](./charts/top_cities.png)
+![Top Cities](charts/top_cities.png)
+
 
 ## Sales by Customer Segment
 
-![Customer Segment](./charts/customer_segment.png)
+![Customer Segment](charts/customer_segment.png)
+
 
 ## Sales by Ship Mode
 
-![Ship Mode](./charts/ship_mode.png)
+![Ship Mode](charts/ship_mode.png)
+
 
 ## Discount Analysis
 
-![Discount Analysis](./charts/discount_analysis.png)
+![Discount Analysis](charts/discount_analysis.png)
+
 
 ## Sales vs Profit
 
-![Sales vs Profit](./charts/sales_vs_profit.png)
+![Sales vs Profit](charts/sales_vs_profit.png)
+
 # 📌 Key Insights
 
 - Identified the highest revenue-generating product categories.
