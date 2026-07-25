@@ -78,52 +78,51 @@ Analyzed:
 ## 4. Data Visualization
 
 Created charts to understand business trends and patterns.
-
 # 📈 Visualizations
 
 ## Sales by Category
 
-![Sales by Category](charts/sales_by_category.png)
+<img src="charts/sales_by_category.png" width="600">
 
 
 ## Profit by Category
 
-![Profit by Category](charts/profit_by_category.png)
+<img src="charts/profit_by_category.png" width="600">
 
 
 ## Sales by Region
 
-![Sales by Region](charts/region_sales.png)
+<img src="charts/sales_by_region.png" width="600">
 
 
 ## Top 10 States by Sales
 
-![Top States](charts/top_states.png)
+<img src="charts/top_states.png" width="600">
 
 
 ## Top 10 Cities by Sales
 
-![Top Cities](charts/top_cities.png)
+<img src="charts/top_cities.png" width="600">
 
 
 ## Sales by Customer Segment
 
-![Customer Segment](charts/customer_segment.png)
+<img src="charts/customer_segment.png" width="600">
 
 
 ## Sales by Ship Mode
 
-![Ship Mode](charts/ship_mode.png)
+<img src="charts/ship_mode.png" width="600">
 
 
 ## Discount Analysis
 
-![Discount Analysis](charts/discount_analysis.png)
+<img src="charts/discount_analysis.png" width="600">
 
 
 ## Sales vs Profit
 
-![Sales vs Profit](charts/sales_vs_profit.png)
+<img src="charts/sales_vs_profit.png" width="600">
 
 # 📌 Key Insights
 
